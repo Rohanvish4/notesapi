@@ -1,0 +1,494 @@
+{
+  "quote": [
+    {
+      "id": 1,
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Mother Teresa"
+    },
+    {
+      "id": 2,
+      "text": "Do not wait for leaders; do it alone, person to person.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 3,
+      "text": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 4,
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 5,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 6,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 7,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": 8,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 9,
+      "text": "Do not wait for leaders; do it alone, person to person.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 10,
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 11,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 12,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Peter Drucker"
+    },
+    {
+      "id": 13,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 14,
+      "text": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Peter Drucker"
+    },
+    {
+      "id": 15,
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 16,
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": 17,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 18,
+      "text": "Success is not the key to happiness. Happiness is the key to success.",
+      "author": "Peter Drucker"
+    },
+    {
+      "id": 19,
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 20,
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 21,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": 22,
+      "text": "Do not wait for leaders; do it alone, person to person.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 23,
+      "text": "Success is not the key to happiness. Happiness is the key to success.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 24,
+      "text": "Do not wait for leaders; do it alone, person to person.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 25,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 26,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 27,
+      "text": "Success is not the key to happiness. Happiness is the key to success.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "id": 28,
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": 29,
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 30,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 31,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 32,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 33,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": 34,
+      "text": "Do not wait for leaders; do it alone, person to person.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 35,
+      "text": "Success is not the key to happiness. Happiness is the key to success.",
+      "author": "Peter Drucker"
+    },
+    {
+      "id": 36,
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 37,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 38,
+      "text": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 39,
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 40,
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "id": 41,
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 42,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": 43,
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 44,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Mother Teresa"
+    },
+    {
+      "id": 45,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 46,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "id": 47,
+      "text": "Do not wait for leaders; do it alone, person to person.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 48,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 49,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 50,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Peter Drucker"
+    },
+    {
+      "id": 51,
+      "text": "Do not wait for leaders; do it alone, person to person.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 52,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Peter Drucker"
+    },
+    {
+      "id": 53,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 54,
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 55,
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 56,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 57,
+      "text": "Success is not the key to happiness. Happiness is the key to success.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 58,
+      "text": "Success is not the key to happiness. Happiness is the key to success.",
+      "author": "Peter Drucker"
+    },
+    {
+      "id": 59,
+      "text": "Success is not the key to happiness. Happiness is the key to success.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 60,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Peter Drucker"
+    },
+    {
+      "id": 61,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 62,
+      "text": "Success is not the key to happiness. Happiness is the key to success.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 63,
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 64,
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 65,
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 66,
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 67,
+      "text": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 68,
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 69,
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 70,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 71,
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": 72,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 73,
+      "text": "Do not wait for leaders; do it alone, person to person.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 74,
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": 75,
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 76,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 77,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "id": 78,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": 79,
+      "text": "Do not wait for leaders; do it alone, person to person.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 80,
+      "text": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 81,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 82,
+      "text": "Do not wait for leaders; do it alone, person to person.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 83,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 84,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 85,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 86,
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Mother Teresa"
+    },
+    {
+      "id": 87,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 88,
+      "text": "Do not wait for leaders; do it alone, person to person.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 89,
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": 90,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker"
+    },
+    {
+      "id": 91,
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": 92,
+      "text": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 93,
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "id": 94,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 95,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 96,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 97,
+      "text": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 98,
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Mother Teresa"
+    }
+  ]
+}
