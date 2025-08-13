@@ -1,4 +1,4 @@
- const SECRET_KEY = process.env.SECRET_KEY;
+ const SECRET_KEY = process.env.SECRET_KEY || "NOTESAPI";
  const jwt  = require("jsonwebtoken");
 
 const auth = (req, res, next) => {
