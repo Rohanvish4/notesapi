@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 async function cleanup() {
     try {
-        await mongoose.connect("mongodb+srv://admin0:admin0@cluster0.e7kyako.mongodb.net/");
+        await mongoose.connect(process.env.MONGO_URL);
         console.log("Connected to MongoDB");
         
         // Drop the notes collection to remove the unique index
