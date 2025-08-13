@@ -42,7 +42,7 @@ const signin =  async (req, res)=>{
       if (!isPasswordValid) {
         return res.status(400).json({ message: "Invalid credentials" });
       }
-      const token = jwt.sign({ email: existingUser.email, id: existingUser._id }, SCRET_KEY);
+      const token = jwt.sign({ email: existingUser.email, id: existingUser._id }, SECRET_KEY);
       res.status(201).json({ message: "Login successful", user: existingUser, token: token });
       
     } catch (error) {
